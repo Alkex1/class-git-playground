@@ -1,3 +1,3 @@
-##First readme file
+# First readme file
 
-first readme file I've made.
+first readme file I've made for git
